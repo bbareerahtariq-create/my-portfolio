@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace [YOUR_GITHUB_PAGES_URL_HERE] with your live GitHub Pages link after publishing
+Sitemap: https://[YOUR_GITHUB_PAGES_URL_HERE]/sitemap.xml
